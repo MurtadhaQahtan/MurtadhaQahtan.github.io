@@ -45,3 +45,4 @@ Allow: /
 
 Sitemap: https://murtadhaqahtan.github.io/layout-fixer-site/sitemap.xml
 Sitemap: https://murtadhaqahtan.github.io/rtl-text-fixer-site/sitemap.xml
+Sitemap: https://murtadhaqahtan.github.io/mic-mute-site/sitemap.xml
