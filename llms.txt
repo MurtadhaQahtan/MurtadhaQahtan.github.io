@@ -1,0 +1,7 @@
+# murtadhaqahtan.github.io
+
+> Personal GitHub Pages host of Murtadha Qahtan. The main product here is Layout Fixer, a Windows 10/11 app (Microsoft Store ID 9N32C01ML8D1, US$1.99) that fixes text typed in the wrong keyboard layout with one hotkey (e.g. "ghbdtn" → "привет", "hgsghl ugd;l" → "السلام عليكم").
+
+## Projects
+- [Layout Fixer](https://murtadhaqahtan.github.io/layout-fixer-site/): fix text typed in the wrong keyboard layout on Windows (Arabic, Persian, Kurdish, Hebrew, Russian, Ukrainian, Greek, Turkish Q ⇄ English or any pair). Full summary: https://murtadhaqahtan.github.io/layout-fixer-site/llms.txt
+- [Layout Fixer in the Microsoft Store](https://apps.microsoft.com/detail/9N32C01ML8D1)
