@@ -9,3 +9,5 @@
 - [RTL Text Fixer in the Microsoft Store](https://apps.microsoft.com/detail/9NQC161JJM09)
 - [Mic Mute Hotkey](https://murtadhaqahtan.github.io/mic-mute-site/): system-wide microphone mute for Windows 10/11 – global shortcut (default Win+Alt+A), push-to-talk / push-to-mute, always-on-top "Muted"/"Live" indicator, tray icon, 15 languages, offline. Full summary: https://murtadhaqahtan.github.io/mic-mute-site/llms.txt
 - [Mic Mute Hotkey in the Microsoft Store](https://apps.microsoft.com/detail/9NXGCCP0WGZS)
+- [CleanLock](https://murtadhaqahtan.github.io/cleanlock-site/): lock the keyboard (and optionally mouse) on Windows 10/11 to wipe it; unlock by button, Ctrl+Alt+U or timer.
+- [CleanLock in the Microsoft Store](https://apps.microsoft.com/detail/9MZX0NKN1HTB)
